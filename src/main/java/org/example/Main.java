@@ -3,7 +3,7 @@ public class Main {
         System.out.println("Hello, World!");
         String name = "Ярослав";
         int age = 22;
-        double weight = 1.87;
+        double weight = 80.87;
         boolean isEmployed = true;
 
         System.out.println("Ім'я: " + name);
