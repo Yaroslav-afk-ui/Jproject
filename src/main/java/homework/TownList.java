@@ -9,7 +9,6 @@ public class TownList {
         cities.add("Кіровоград");
         cities.add("Полтава");
         cities.add("Одеса");
-        cities.add("Харків");
         System.out.println(cities);
     }
 }
